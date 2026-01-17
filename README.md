@@ -77,6 +77,8 @@ The dataset contains transactional sales data collected during the Diwali season
 
 This analysis provides valuable insights into customer behavior and sales trends during the Diwali season. The findings can be used by businesses to optimize marketing strategies, improve inventory management, and increase profitability during future festive campaigns.
 
+## 📸 Sample Visualizations
+
 ---
 
 ## 📎 Project Type
