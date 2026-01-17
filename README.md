@@ -79,7 +79,7 @@ This analysis provides valuable insights into customer behavior and sales trends
 
 ---
 
-📎 Project Type
+##📎 Project Type
 
 Exploratory Data Analysis (EDA) | Data Analyst Portfolio Project
 
