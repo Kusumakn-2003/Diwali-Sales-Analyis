@@ -82,7 +82,7 @@ The following visualizations highlight key insights derived from the Diwali sale
 ## 📸 Sample Visualizations
 The following visualizations highlight key insights derived from the Diwali sales dataset.
 
-![Gender-wise Customer Count](images/gender_count.png)
+![Gender-wise Customer Count](images/Gender_Count.png)
 ![Age Group-wise Sales Distribution](images/age_group_sales.png)
 ![Total Sales from Top 10 Cities](images/Total_Sales_From_Top10_Cities.png)
 
